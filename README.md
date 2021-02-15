@@ -41,5 +41,10 @@ novice programming.
 * Westley Weimer, University of Michigan <weimerw@umich.edu>
 
 
+### Paper Link
+
+The paper is availble both here on GitHub: FIXME and on arXiv FIXME
+
+
 
 
