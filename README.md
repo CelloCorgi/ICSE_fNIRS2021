@@ -43,7 +43,7 @@ novice programming.
 
 ### Paper Link
 
-The paper is availble both here on GitHub: FIXME and on arXiv FIXME
+The paper is availble both here on GitHub: FIXME and on arXiv https://arxiv.org/abs/2102.12376
 
 
 
