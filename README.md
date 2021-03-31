@@ -1,4 +1,4 @@
-## Relating Reading, Visualization, and Coding forNew Programmers: A Neuroimaging Study
+## Relating Reading, Visualization, and Coding for New Programmers: A Neuroimaging Study
 
 This repository contains materials relating to the ICSE 2021 paer: *Relating Reading, Visualization, and Coding for New Programmers: A Neuroimaging Study*
 
