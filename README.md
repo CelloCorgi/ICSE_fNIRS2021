@@ -40,6 +40,11 @@ novice programming.
 * Ioulia Kovelman, University of Michigan
 * Westley Weimer, University of Michigan <weimerw@umich.edu>
 
+### Repository Contents
+
+* [Stimuli.zip](https://github.com/CelloCorgi/ICSE_fNIRS2021/blob/main/Stimuli.zip): Contains all 90 fNIRS stimuli used during our experiment
+* 
+
 
 ### Paper Link
 
