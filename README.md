@@ -40,15 +40,20 @@ novice programming.
 * Ioulia Kovelman, University of Michigan
 * Westley Weimer, University of Michigan <weimerw@umich.edu>
 
-### Repository Contents
-
-* [Stimuli.zip](https://github.com/CelloCorgi/ICSE_fNIRS2021/blob/main/Stimuli.zip): Contains all 90 fNIRS stimuli used during our experiment
-* 
-
-
 ### Paper Link
 
 The paper is availble both here on GitHub: FIXME and on arXiv https://arxiv.org/abs/2102.12376
+
+### Repository Contents
+
+* [Stimuli.zip](https://github.com/CelloCorgi/ICSE_fNIRS2021/blob/main/Stimuli.zip): Contains all 90 fNIRS stimuli used during our experiment
+* [Channel Setup](https://github.com/CelloCorgi/ICSE_fNIRS2021/tree/main/fNIRS%20Channel%20Setup): Contains the fNIRS cap channel setup map
+
+
+### Other Data
+
+* Our raw fNIRS data contains a large amount of sensitive brain activation patterns that we are unable to post publicly on GitHub. If you are interested in access to our raw fNIRs data and/or our full analysis pipeline, please contact either Madeline Endres at <endremad@umich.edu> or Westley Weimer at <weimerw@umich.edu>
+
 
 
 
