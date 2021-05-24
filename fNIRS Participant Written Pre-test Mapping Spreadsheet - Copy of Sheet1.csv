@@ -1,0 +1,38 @@
+fNIRS ID,Participant ID,Attended Post-test,Pre-test: PFT (x / 20),Post-test PFT,Pre-test: Yoon (Spatial X / 30),Post-test: Yoon,Pre-test: Reading,Post-test: Reading,Pre-test: Programming (x / 12),Post-test: Programming (x / 12),Post-test: Programming (x / 27),Post-test: Programming Definitional,Post-test: Programming Trace,Post-test: Programming Code,Gender,Ethnicity,Native Language,IDE,Expected EECS 183 grade,Planing on Majoring / Minoring in CS/DS/SI
+4,8588,TRUE,10,12,15,23,17,11,4,4,12,6,2,4,Female,"Asian / Pacific Islander,White / Caucasian",English,XCode,A,1
+5,5825,FALSE,18,,24,,9,,2,,,,,,,,,,,
+6,348,TRUE,20,20,24,25,19,21,5,6,16,7,5,4,Male,Asian / Pacific Islander,Chinese,Visual Studio,A+,1
+8,7464,FALSE,13,,6,,8,,1,,,,,,,,,,,
+9,8421,TRUE,13,12,14,14,6,4,2,4,8,2,3,3,Female,Asian / Pacific Islander,Chinese,Visual Studio,A,1
+10,3044,TRUE,12,13,19,19,13,8,3,3,5,2,1,2,Female,"Asian / Pacific Islander,White / Caucasian",Chinese,,A-,0
+17,6979,TRUE,17,18,28,23,4,8,2,10,19,7,6,6,Female,Asian / Pacific Islander,Chinese,Visual Studio,A+,0
+21,1163,TRUE,13,12,12,18,7,9,1,9,18,8,6,4,Male,Multiple ethnicity/Other (please specify),English,XCode,A,1
+22,5554,TRUE,20,20,30,28,16,17,5,10,21,9,8,4,Female,Asian / Pacific Islander,Chinese,Visual Studio,A+,1
+24,658,TRUE,17,18,29,26,6,12,2,6,9,3,4,2,Female,"Hispanic American,White / Caucasian",English,XCode,A-,1
+25,9632,TRUE,13,13,17,16,7,7,0,6,9,3,4,2,Female,Asian / Pacific Islander,English,XCode,A,1
+29,4821,TRUE,16,16,19,21,7,10,3,8,10,4,4,2,Female,Asian / Pacific Islander,English,XCode,A,1
+31,8970,TRUE,17,16,13,25,7,4,1,4,8,3,3,2,Female,Asian / Pacific Islander,English and Cantonese,XCode,A-,1
+33,6091,TRUE,13,19,19,20,13,12,2,9,13,5,5,3,Female,White / Caucasian,English,XCode,A,1
+34,6213,TRUE,11,14,18,20,13,13,3,7,16,5,6,5,Female,White / Caucasian,English,XCode,A,0
+36,994,TRUE,14,14,22,29,15,14,4,9,18,8,5,5,Male,White / Caucasian,English,Visual Studio,A,1
+7,6764,FALSE,10,,21,,8,,0,,,,,,,,,,,
+11,6996,FALSE,8,,11,,10,14,1,,,,,,,,,,,
+12,5802,TRUE,16,18,24,24,16,15,4,10,15,4,5,6,Female,White / Caucasian,English,Visual Studio,A,1
+13,4698,FALSE,12,,22,,12,,1,,,,,,,,,,,
+15,5035,TRUE,13,17,17,20,7,5,3,6,8,3,3,2,Female,White / Caucasian,English,XCode,A,0
+18,7320,FALSE,8,,17,,7,,5,,,,,,,,,,,
+19,9669,TRUE,13,16,15,14,8,9,3,5,8,3,1,4,Female,Asian / Pacific Islander,Chinese,XCode,,0
+20,2801,TRUE,16,17,19,19,9,10,5,8,14,4,7,3,Female,Asian / Pacific Islander,Chinese,XCode,A,1
+23,4516,TRUE,11,16,20,21,6,4,0,5,11,4,5,2,Female,White / Caucasian,English,Visual Studio,A-,0
+26,1954,FALSE,15,,18,,7,,3,,,,,,,,,,,
+27,9760,TRUE,5,6,8,13,2,10,1,7,11,4,4,3,Female,"Hispanic American,White / Caucasian",English,XCode,A-,1
+30,8765,TRUE,16,17,25,26,11,6,6,6,14,8,5,1,Female,Asian / Pacific Islander,English,XCode,Pass,0
+35,7584,TRUE,13,16,13,20,2,3,6,5,7,2,3,2,Female,White / Caucasian,English,XCode,A-,1
+38,7738,FALSE,12,,23,,10,15,3,,,,,,,,,,,
+39,6379,TRUE,16,17,14,20,2,7,5,6,10,4,5,1,Female,White / Caucasian,English,XCode,B+,1
+32,9089,FALSE,13,,21,,15,,7,,,,,,,,,,,
+28,8790,FALSE,12,,20,,13,,2,,,,,,,,,,,
+37,941,TRUE,17,16,27,28,3,5,2,5,6,4,2,0,Male,Middle Eastern,Arabic,XCode,A,0
+14,6649,TRUE,15,14,14,14,0,6,2,5,8,5,2,1,Female,Hispanic American,English,XCode,A-,1
+16,3803,FALSE,15,,28,,15,,4,,,,,,,,,,,
+40,3506,TRUE,11,12,12,11,14,12,2,8,13,4,4,5,Female,"White / Caucasian, Jewish",English,XCode,Pass,0
