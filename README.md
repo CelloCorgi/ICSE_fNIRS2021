@@ -48,6 +48,7 @@ The paper is availble both here on GitHub: FIXME and on arXiv https://arxiv.org/
 
 * [Stimuli.zip](https://github.com/CelloCorgi/ICSE_fNIRS2021/blob/main/Stimuli.zip): Contains all 90 fNIRS stimuli used during our experiment
 * [Channel Setup](https://github.com/CelloCorgi/ICSE_fNIRS2021/tree/main/fNIRS%20Channel%20Setup): Contains the fNIRS cap channel setup map
+* [Written Pre and Post Test Data](https://github.com/CelloCorgi/ICSE_fNIRS2021/blob/main/fNIRS%20Participant%20Written%20Pre-test%20Mapping%20Spreadsheet%20-%20Copy%20of%20Sheet1.csv): contains participant scores on the final programming test as well as their pre-test scores used for validation of no prior experience.
 
 
 ### Other Data
