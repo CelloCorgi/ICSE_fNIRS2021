@@ -52,6 +52,10 @@ The paper is availble both here on GitHub: FIXME and on arXiv https://arxiv.org/
 * [fNIRS Protocol](https://github.com/CelloCorgi/ICSE_fNIRS2021/blob/main/fNIRS%20Protocol.docx) and [Consent Form](https://github.com/CelloCorgi/ICSE_fNIRS2021/blob/main/fNIRS%20Consent%20Form.docx)
 * [Data Quality](https://github.com/CelloCorgi/ICSE_fNIRS2021/blob/main/Spatial%20Reasoning%20Spreadsheets%20-%20Block%20Usability.csv): Results of data quality checks on all participant fNIRS Blocks
 
+### fNIRS Data Analysis
+
+We performed our fNIRS analysis with scripts that build on on the publically available NIRS Toolbox from the Brain Imaging Lab at the University of Pittsburgh.(see info [here](http://huppertlab.net/nirs-toolbox-2/) and GitHub repo [here](https://github.com/huppertt/nirs-toolbox)). In this repository, we have included our additional scripts beyond those included in the NIRS Toolbox
+
 ### Other Data
 
 The results of all group-level channel t-tests can be found here: https://docs.google.com/spreadsheets/d/1TZF43R5Ut0oioUF0kliqj9D0JSAo9Zn49WXCJ6uTsbY/edit?usp=sharing
